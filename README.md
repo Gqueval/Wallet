@@ -16,7 +16,8 @@ the script into your backend with your dear old friend, Python.
 Once you've integrated this "universal" wallet, you can begin to manage billions of addresses across 300+ coins, giving
 you a serious edge against the competition.
 
-In this assignment, however, you will only need to get 2 coins working: Ethereum and Bitcoin Testnet.
+Goal is to get 2 coins working: Ethereum and Bitcoin Testnet.
+
 Ethereum keys are the same format on any network, so the Ethereum keys should work with your custom networks or testnets.
 
 ### Submission
@@ -30,6 +31,3 @@ Ethereum keys are the same format on any network, so the Ethereum keys should wo
   You may include the `hd-wallet-derive` folder in your repo, but still include the install instructions. You do not
   need to include Python or PHP installation instructions.
 
-- Upload the project to a new GitHub repository.
-
-- Celebrate the fact that you now have an incredibly powerful wallet that you can expand to hundreds of coins!

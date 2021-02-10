@@ -20,14 +20,7 @@ Goal is to get 2 coins working: Ethereum and Bitcoin Testnet.
 
 Ethereum keys are the same format on any network, so the Ethereum keys should work with your custom networks or testnets.
 
-### Submission
+### What the Wallet Does
 
-- Create a `README.md` that contains the test transaction screenshots, as well as the code used to send them.
-  Pair the screenshot with the line(s) of code.
-
-- Write a short description about what the wallet does, what is is built with, and how to use it.
-
-- Include installing pip dependencies using `requirements.txt`, as well as cloning and installing `hd-wallet-derive`.
-  You may include the `hd-wallet-derive` folder in your repo, but still include the install instructions. You do not
-  need to include Python or PHP installation instructions.
+- This is a "universal" wallet which has the ability to hold an unlimited amount of Ethereum and Bitcoin.
 
